@@ -74,7 +74,7 @@ header{
 .weather-app-temperature{
     font-size:88px;
     font-weight:bold;
-    mrgin-left: 10px;
+    line-height:88px;
 }
 
 .weather-app-unit{
@@ -82,6 +82,6 @@ header{
     font-size:28px;
 }
 .weather-app-icon{
-    font-size:48px;
-    margin-top: 22px;
+    width:88px;
+    height:88px;
 }
